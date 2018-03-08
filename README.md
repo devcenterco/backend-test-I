@@ -17,6 +17,8 @@ Target accounts using either of these criteria:
 * Based on hashtags used
 * Based on number of followers; Between 1,000 - 50,000
 
+*The bot is suppose to maintain a session and continously listen to the predefined hashtag*
+
 ## How to complete the task
 
 1. Fork this repository into your own public repo.
