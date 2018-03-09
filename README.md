@@ -23,7 +23,9 @@ The bot is suppose to maintain a session and continously listen to the predefine
 
 1. Fork this repository into your own public repo.
 
-2. Complete the project and commit your work. Send the URL of your own repository to @seun on the Slack here bit.ly/dcs-slack.
+2. Complete the project and commit your work. Make a screencast of how it works with the googlespread sheet and progam side-by-side
+
+3. Send the URL of your own repository and the screencast to @kolawole.balogun on the Slack here bit.ly/dcs-slack.
 
 ## Show your working
 
