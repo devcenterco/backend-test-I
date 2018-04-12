@@ -13,7 +13,7 @@ Build a bot that extracts the following from people’s Twitter bio (on public/o
 * Twitter profile name 
 * Number of followers
 
-Target accounts using either of these criteria:
+Target accounts using these criteria:
 * Based on hashtags used
 * Based on number of followers; Between 1,000 - 50,000
 
